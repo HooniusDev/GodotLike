@@ -1,0 +1,6 @@
+D:\GameDev\Projects\Godot\GodotLike\.mono\temp\bin\Tools\GodotLike.dll
+D:\GameDev\Projects\Godot\GodotLike\.mono\temp\bin\Tools\GodotLike.pdb
+D:\GameDev\Projects\Godot\GodotLike\.mono\temp\obj\Tools\GodotLike.csprojResolveAssemblyReference.cache
+D:\GameDev\Projects\Godot\GodotLike\.mono\temp\obj\Tools\GodotLike.csproj.CoreCompileInputs.cache
+D:\GameDev\Projects\Godot\GodotLike\.mono\temp\obj\Tools\GodotLike.dll
+D:\GameDev\Projects\Godot\GodotLike\.mono\temp\obj\Tools\GodotLike.pdb
